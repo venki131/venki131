@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venki131
+- 👋 Hi, I’m Venkatesh Kashyap @venki131
 - 👀 I’m interested in Android application development.
 - 🌱 I’m currently learning Kotlin, Coroutines and clean Architecture pattern.
 - 📫 How to reach me  - venkatesh.kashyap13@gmail.com
