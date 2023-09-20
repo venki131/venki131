@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Venkatesh Kashyap @venki131
 - 👀 I’m interested in Android application development.
-- 🌱 I’m currently learning Kotlin, Coroutines and clean Architecture pattern.
+- 🌱 I’m currently learning Jetpack Compose and KMP.
 - 📫 How to reach me  - venkatesh.kashyap13@gmail.com
 
 <!---
